@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactPortfolio/static/css/main.995ae762.css",
+    "main.js": "/reactPortfolio/static/js/main.2a52f82b.js",
+    "static/media/portfolio5.png": "/reactPortfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/mee.png": "/reactPortfolio/static/media/mee.a2ff6179af0a3bf0ce75.png",
+    "static/media/TomasSaltoCV2023.pdf": "/reactPortfolio/static/media/TomasSaltoCV2023.bdb1d56a1fb526a0b228.pdf",
+    "static/media/portfolio2.jpg": "/reactPortfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/reactPortfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/reactPortfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/reactPortfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/WhatsApp-Image-2023-02-23-at-18.47.58.jpg": "/reactPortfolio/static/media/WhatsApp-Image-2023-02-23-at-18.47.58.a79a34ceae94a63437e7.jpg",
+    "static/media/portfolio4.jpg": "/reactPortfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/reactPortfolio/index.html",
+    "main.995ae762.css.map": "/reactPortfolio/static/css/main.995ae762.css.map",
+    "main.2a52f82b.js.map": "/reactPortfolio/static/js/main.2a52f82b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.995ae762.css",
+    "static/js/main.2a52f82b.js"
+  ]
+}
